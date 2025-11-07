@@ -14,7 +14,7 @@ The task involves preprocessing MRI images, training multiple architectures, eva
 
 ## 🧩 Dataset
 
-**Source:** Brain Tumor MRI Dataset (Kaggle)  
+**Source:** Brain Tumor MRI Dataset 
 **Classes:**
 - 🧬 Glioma  
 - 🧬 Meningioma  
