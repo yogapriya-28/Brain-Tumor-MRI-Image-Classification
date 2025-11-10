@@ -46,7 +46,7 @@ All images were resized to **224 × 224 px** and normalized to `[0,1]`.
 - Accuracy: **70.3%**
 - Model file: `models_outputs/InceptionV3_best.h5`
 - Framework: **TensorFlow / Keras**
-- Optimizer: Adam (lr=0.0001)
+- Optimizer: Adam 
 - Loss: Categorical Crossentropy
 - Epochs: 15  
 - Image Size: (224, 224, 3)
