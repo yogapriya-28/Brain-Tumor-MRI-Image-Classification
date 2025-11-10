@@ -47,7 +47,7 @@ All images were resized to **224 × 224 px** and normalized to `[0,1]`.
 - Model file: `models_outputs/InceptionV3_best.pkl`
 - Framework: **TensorFlow / Keras**
 - Optimizer: Adam 
-- Loss: Categorical Crossentropy
+- Loss: sparse_categorical_crossentropy
 - Epochs: 15  
 - Image Size: (224, 224, 3)
 
