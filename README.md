@@ -1,7 +1,7 @@
 # 🧠 Brain Tumor MRI Classification using Deep Learning
 
 A deep learning–based project that classifies **Brain MRI images** into four tumor categories using **InceptionV3**, **MobileNetV2**, **ResNet50**, and a **Custom CNN** model.  
-The final model (`InceptionV3_best.h5`) is deployed as an interactive **Streamlit web app** for real-time tumor diagnosis.
+The final model (`InceptionV3_best.pkl`) is deployed as an interactive **Streamlit web app** for real-time tumor diagnosis.
 
 ---
 
